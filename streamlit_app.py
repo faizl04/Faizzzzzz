@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title("🎈 welcome faiz grup")
+st.title("🎈 welcome faiz ")
 st.write("selamat datang di web saya")
-st.title("YAH JUARA LAGI")
+st.title("xe")
 st.header("ASA DINGIN GINI EY")
-st.image("Screenshot_20250528_201110_TikTok.jpg")
+st.image("IMG-20250528-WA0104.jpg")
