@@ -4,6 +4,6 @@ st.title("🎈 welcome faiz grup")
 st.write(
     "selamat datang di web saya."
 )
-st.title("HARI MINSOC")
-st.header("kesukaanku")
-st.image("IMG-20250530-WA0069.jpg")
+st.title("YAH JUARA LAGI")
+st.header("ASA DINGIN GINI EY")
+st.image("Screenshot_20250528_201110_TikTok.jpg")
